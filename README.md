@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LastDay00
 - 👀 I’m interested in IT, InfoSec, Dev, Music
-- 🌱 I’m currently learning Python and C
 
 
 <!---
